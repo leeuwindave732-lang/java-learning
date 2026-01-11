@@ -1,0 +1,8 @@
+### JAVA 100 - DAY CHALLENGE ( ZERO TO HERO )
+
+## Daily Learning
+- Day 1 = Hello world!
+- Day 2 = Variables, Data types, var, casting
+- Day 3 = Operators & Expressions
+- Day 4 = Conditionals( if, switch )
+- Day 5 = Loops ( for, while, do-while )

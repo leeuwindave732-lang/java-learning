@@ -8,3 +8,4 @@
 - Day 5 = Loops ( for, while, do-while )
 - Day 6 = Methods & Parameters
 - Day 7 = Method Overloading
+- Day 8 = Arrays ( 1d & 2d)

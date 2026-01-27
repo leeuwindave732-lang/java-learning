@@ -1,3 +1,4 @@
+package Day2;
 public class Variables {
     public static void main(String[] args) {
         int age = 18; // stores age ( whole number )

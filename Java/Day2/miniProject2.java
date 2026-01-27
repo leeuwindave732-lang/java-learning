@@ -1,3 +1,4 @@
+package Day2;
 public class miniProject2 {
     public static void main(String[] args) {
         String book = "Lookism";

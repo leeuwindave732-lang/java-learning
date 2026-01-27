@@ -1,3 +1,4 @@
+package Day4;
 public class miniProject4 {
     public static void main(String[] args) {
         int grades = 90;

@@ -11,3 +11,5 @@
 - Day 8 = Arrays ( 1d & 2d)
 - Day 9 = Strings & StringBuilder
 - Day 10 = Input & Output (Scanner)
+- Day 11 = Try - Except
+- Day 12 = Classes & Object

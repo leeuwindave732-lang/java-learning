@@ -1,3 +1,4 @@
+package Day6;
 public class method {
     public static void main(String[] args) {
         int sum = add(5,10);

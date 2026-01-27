@@ -1,3 +1,4 @@
+package Day6;
 public class MiniProject6 {
     public static void main(String[] args) {
         // Create a method to calculate area of a rectangle

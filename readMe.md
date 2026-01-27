@@ -13,3 +13,4 @@
 - Day 10 = Input & Output (Scanner)
 - Day 11 = Try - Except
 - Day 12 = Classes & Object
+- Day 13 = Constructor

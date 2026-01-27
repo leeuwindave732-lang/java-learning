@@ -1,3 +1,4 @@
+package Day12;
 // Create a Car class
 // fields: brand, model, year
 

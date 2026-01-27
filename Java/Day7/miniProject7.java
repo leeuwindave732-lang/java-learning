@@ -1,3 +1,4 @@
+package Day7;
 public class miniProject7 {
     public static void main(String[] args) {
         System.out.println("Factorial! (int): " + factorial(5));

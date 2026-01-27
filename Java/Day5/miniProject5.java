@@ -1,3 +1,4 @@
+package Day5;
 public class miniProject5 {
     public static void main(String[] args) {
         // print the multiplication table of using a loop

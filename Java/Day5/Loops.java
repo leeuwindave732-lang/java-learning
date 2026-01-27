@@ -1,3 +1,4 @@
+package Day5;
 public class Loops {
     public static void main(String[] args) {
         // for loop

@@ -1,3 +1,4 @@
+package Day8;
 public class miniProject8 {
     public static void main(String[] args) {
         // Create an array of 5 test scores and calculate the average

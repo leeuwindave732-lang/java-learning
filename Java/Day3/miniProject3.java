@@ -1,3 +1,4 @@
+package Day3;
 public class miniProject3 {
     public static void main(String[] args) {
         int length = 1;
